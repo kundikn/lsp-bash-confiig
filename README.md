@@ -3,6 +3,7 @@
 Как это выглядит
 ![image](https://github.com/user-attachments/assets/a44f0033-1cdf-4281-b318-5a6530f808eb)
 
+### Установка
 *Распаковать архив lsp-config.tar.gz и поместить папку nvim в .config*
 
 *Установить nvim > 0.10.* - обязательно
